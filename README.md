@@ -82,7 +82,7 @@ Key insight: **Contract type and tenure dominate churn behavior.**
 
 ## Methodology
 
-<img width="1119" height="579" alt="Image" src="https://github.com/user-attachments/assets/5e345619-63c4-4d43-891f-9cd70085e676" />
+<img width="1368" height="638" alt="Image" src="https://github.com/user-attachments/assets/e9f4bebd-ac24-4add-814a-9b0403119edd" />
 
 ### Core Stack
 Python • Scikit-learn • XGBoost • SHAP • Pandas • Matplotlib • Seaborn
@@ -197,7 +197,7 @@ Please find the complete project presentation below, including:
 - SHAP interpretability insights  
 - Final retention strategy & recommendations  
 
-👉 **[View Full Slide Deck](YOUR_SLIDE_LINK_HERE)**
+👉 **[View Full Slide Deck](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/TelConnect_Customer_Churn_Analysis_Lawrence_Lin.pdf)**
 
 ---
 
