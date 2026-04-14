@@ -9,7 +9,7 @@ TelConnect faces a **26.54% monthly churn rate**, meaning roughly 1 in 4 custome
 This project builds a **predictive churn model + profit-optimized retention strategy**, transforming retention from a reactive cost center into a **data-driven profit lever**.
 
 ### Key Results
-- Net profit increased from **$304,052 → $359,508 (+23%)**
+- Net profit increased from **$304,052 → $359,508 (+18%)**
 - Revenue recovered increased from **$326,486 → $424,515**
 - XGBoost churn model achieves **AUC = 0.845, Recall = 77%**
 - Proactive targeting of **2,604 high-risk customers monthly**
