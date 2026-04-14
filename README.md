@@ -11,9 +11,9 @@ TelConnect faces a **26.54% monthly churn rate**, meaning roughly 1 in 4 custome
 This project builds a **predictive churn model + profit-optimized retention strategy**, transforming retention from a reactive cost center into a **data-driven profit lever**.
 
 ### Key Results
-- Net profit increased from **$270,402 → $332,313 (+23%)**
+- Net profit increased from **$304,052 → $359,508 (+23%)**
 - Revenue recovered increased from **$326,486 → $424,515**
-- XGBoost churn model achieves **AUC = 0.844, Recall = 80%**
+- XGBoost churn model achieves **AUC = 0.845, Recall = 77%**
 - Proactive targeting of **2,604 high-risk customers monthly**
 - Break-even proactive acceptance rate: **~4% (strategy highly robust)**
 
@@ -95,14 +95,14 @@ We trained and compared multiple models:
 
 | Model | ROC-AUC | Recall | Notes |
 |------|--------|--------|------|
-| Logistic Regression | ~0.84 | 0.77 | Interpretable baseline |
-| Random Forest | ~0.84 | ~0.80 | Strong ensemble model |
-| **XGBoost (Selected)** | **0.844** | **0.80** | Best profit performance |
+| Logistic Regression | 0.843 | 0.77 | Interpretable baseline |
+| Random Forest | 0.838 | 0.80 | Strong ensemble model |
+| **XGBoost (Selected)** | **0.845** | **0.80** | Best profit performance |
 
 ### Why XGBoost?
-- Highest ROC-AUC (0.844)
+- Highest ROC-AUC (0.845)
 - Strong recall for churn class (80%)
-- Best net profit in simulation
+- Choose a 0.56 threshold for maximum net profit in simulation
 - Robust handling of non-linear churn drivers
 
 ---
@@ -137,9 +137,9 @@ A profit-based simulation evaluates retention strategy using:
 
 | Metric | Current | Optimized |
 |--------|--------|----------|
-| Net Profit | $270,402 | $332,313 |
+| Net Profit | $304,052 | $359,508 |
 | Revenue | $326,486 | $424,515 |
-| Total Cost | $56,084 | $92,201 |
+| Total Cost | $22,434 | $65,007 |
 | Customers Targeted | 0 | 2,604 |
 
 ### Key Insight
@@ -188,7 +188,7 @@ to:
 
 By combining **predictive modeling + SHAP explainability + profit simulation**, TelConnect can shift from reactive retention to **data-driven proactive customer retention strategy**.
 
-## 📊 Full Presentation
+## Full Presentation
 
 Please find the complete project presentation below, including:
 - End-to-end methodology walkthrough  
@@ -197,18 +197,4 @@ Please find the complete project presentation below, including:
 - SHAP interpretability insights  
 - Final retention strategy & recommendations  
 
-👉 **[View Full Slide Deck](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/TelConnect_Customer_Churn_Analysis_Lawrence_Lin.pdf)**
-
----
-
-## Final Takeaway
-
-This project transforms churn analysis from:
-
-> “Who will leave?”
-
-to:
-
-> “Who will leave, why, and what intervention maximizes profit?”
-
-By combining **predictive modeling, SHAP explainability, and profit-based simulation**, TelConnect shifts from reactive retention to a **fully optimized, proactive customer retention strategy**.
+**[View Full Slide Deck](https://github.com/lin-jhe-yu/Telconnect-Customer-Churn-Analysis/blob/main/TelConnect_Customer_Churn_Analysis_Lawrence_Lin.pdf)**
