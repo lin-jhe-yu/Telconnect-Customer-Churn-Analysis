@@ -1,8 +1,6 @@
-# Telconnect Customer Churn Analysis
+# TelConnect Customer Churn Prediction & Retention Optimization
 ---
 <img width="1261" height="608" alt="Image" src="https://github.com/user-attachments/assets/54231281-3feb-42f0-8afb-7a0f12d2f05f" />
-
-# TelConnect Customer Churn Prediction & Retention Optimization
 
 ## Executive Summary
 
