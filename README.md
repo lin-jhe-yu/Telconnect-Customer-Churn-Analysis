@@ -1,6 +1,7 @@
+
 # TelConnect Customer Churn Prediction & Retention Optimization
 ---
-<img width="1261" height="608" alt="Image" src="https://github.com/user-attachments/assets/54231281-3feb-42f0-8afb-7a0f12d2f05f" />
+<img width="2912" height="1440" alt="Gemini_Generated_Image_nhdt7ynhdt7ynhdt" src="https://github.com/user-attachments/assets/119718fe-44b3-45ea-88c2-6b10a2ec21ba" />
 
 ## Executive Summary
 
@@ -80,7 +81,7 @@ Key insight: **Contract type and tenure dominate churn behavior.**
 
 ## Methodology
 
-<img width="1368" height="638" alt="Image" src="https://github.com/user-attachments/assets/e9f4bebd-ac24-4add-814a-9b0403119edd" />
+<img width="2912" height="1440" alt="Gemini_Generated_Image_h1molah1molah1mo" src="https://github.com/user-attachments/assets/3adabaa8-7ddf-41d1-a0fa-55d0d2951eb6" />
 
 ### Core Stack
 Python • Scikit-learn • XGBoost • SHAP • Pandas • Matplotlib • Seaborn
