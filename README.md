@@ -170,8 +170,7 @@ This ensures **budget is allocated based on ROI, not uniform treatment.**
 ---
 
 ## Next Steps
-
-<img width="986" height="379" alt="Image" src="https://github.com/user-attachments/assets/28fee167-e02a-4fad-ac1c-5942d4216360" />
+<img width="2912" height="1440" alt="Gemini_Generated_Image_xo8ihtxo8ihtxo8i" src="https://github.com/user-attachments/assets/1a7dc5ee-b802-415b-9a6c-99d43e0c3e57" />
 
 ---
 
